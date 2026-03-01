@@ -1,0 +1,1 @@
+ uv add fastapi inngest llama-index-core llama-index-readers-file python-dotenv qdrant-client unicorn streamlit openai fastapi unicorn
